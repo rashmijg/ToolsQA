@@ -1,0 +1,6 @@
+com\tqa\qa\util\TestUtil.class
+com\tqa\qa\pages\HomePage.class
+com\tqa\qa\util\WebEventListener.class
+com\tqa\qa\pages\loginPage.class
+com\tqa\qa\base\TestBase.class
+com\tqa\qa\ExtentReportListener\ExtentReporterNG.class

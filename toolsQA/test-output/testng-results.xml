@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="36341" started-at="2020-02-16T07:15:32Z" finished-at="2020-02-16T07:16:08Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="36341" started-at="2020-02-16T07:15:32Z" finished-at="2020-02-16T07:16:08Z">
+      <class name="com.tqa.qa.testcase.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.tqa.qa.testcase.HomePageTest@5b275dab]" name="setup" is-config="true" duration-ms="16639" started-at="2020-02-16T12:45:32Z" finished-at="2020-02-16T12:45:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="switchTowindow()[pri:0, instance:com.tqa.qa.testcase.HomePageTest@5b275dab]" name="switchTowindow" duration-ms="3564" started-at="2020-02-16T12:45:48Z" finished-at="2020-02-16T12:45:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- switchTowindow -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tqa.qa.testcase.HomePageTest@5b275dab]" name="tearDown" is-config="true" duration-ms="706" started-at="2020-02-16T12:45:52Z" finished-at="2020-02-16T12:45:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tqa.qa.testcase.HomePageTest -->
+      <class name="com.tqa.qa.testcase.LoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tqa.qa.testcase.LoginPageTest@523884b2]" name="setUp" is-config="true" duration-ms="14352" started-at="2020-02-16T12:45:53Z" finished-at="2020-02-16T12:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="login()[pri:1, instance:com.tqa.qa.testcase.LoginPageTest@523884b2]" name="login" duration-ms="309" started-at="2020-02-16T12:46:07Z" finished-at="2020-02-16T12:46:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tqa.qa.testcase.LoginPageTest@523884b2]" name="tearDown" is-config="true" duration-ms="727" started-at="2020-02-16T12:46:07Z" finished-at="2020-02-16T12:46:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tqa.qa.testcase.LoginPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
